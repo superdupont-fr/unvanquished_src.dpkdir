@@ -2,7 +2,6 @@
 	<head>
 		<link type="text/rcss" href="/ui/shared/basics.rcss" />
 		<style>
-
 			body {
 				width: 100%;
 				height: 100%;
@@ -92,12 +91,10 @@
 			.emoticon {
 				height: 1em;
 			}
-
 		</style>
-		<title>Loading</title>
+		<title><translate>Loading</translate></title>
 	</head>
 	<body id="loading" nohide>
-
 		<levelshot_loading/>
 
 		<infobox>
@@ -116,6 +113,5 @@
 		<percentage>
 			<progress_value src="overall"/>
 		</percentage>
-
 	</body>
 </rml>
